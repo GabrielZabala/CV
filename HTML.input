@@ -1,0 +1,12 @@
+<form>
+<label>Date</label><br>
+<input type="date" name="" value="">
+<label>checkbox</label><br>
+<input type="checkbox" name="" value="">
+<label>Search</label><br>
+<<input type="search" name="" value="">
+
+
+
+
+</form>
